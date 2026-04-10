@@ -1,1 +1,2 @@
-# elden ling
+# Elden Ling
+# A next generation action-RPG where players explore a fractured realm ruled by a mysterious figure known only as “Ling.” Once a silent guardian, Ling has shattered the balance of the world, scattering immense power across ruined kingdoms and cursed lands. As a lone warrior, you must hunt down these fragments, battle twisted champions, and uncover the truth behind Ling’s fall. With punishing combat, haunting environments, and cryptic storytelling, Elden Ling challenges you to rise, fail, and rise again in a world that has long since lost hope.
