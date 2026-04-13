@@ -1,2 +1,10 @@
 # Elden Ling
-# A next generation action-RPG where players explore a fractured realm ruled by a mysterious figure known only as “Ling.” Once a silent guardian, Ling has shattered the balance of the world, scattering immense power across ruined kingdoms and cursed lands. As a lone warrior, you must hunt down these fragments, battle twisted champions, and uncover the truth behind Ling’s fall. With punishing combat, haunting environments, and cryptic storytelling, Elden Ling challenges you to rise, fail, and rise again in a world that has long since lost hope.
+# In the decaying expanse of the Fractured Realm, you are Ling, a wanderer awakened from an age-old slumber. Destiny has woven a path of iron and sorcery before you, but one final obstacle stands between you and the rebirth of a shattered world: The Primordial Sentinel.
+
+# Elden Ling is a punishing, atmospheric action-RPG that demands precision, patience, and unwavering resolve. Step into the shoes of Ling and master a high-stakes combat system where every swing of your blade, every perfectly timed dodge, and every measured breath could be your last.
+
+#Will You Rise, Ling?
+
+#The Sentinel does not tire, nor does it show mercy. Only those who can read the subtle cues of their enemy and strike with absolute certainty will overcome the shadow of the Primordial.
+
+#Sharpen your blade. The cycle begins with you.
