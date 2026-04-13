@@ -3,8 +3,8 @@
 
 # Elden Ling is a punishing, atmospheric action-RPG that demands precision, patience, and unwavering resolve. Step into the shoes of Ling and master a high-stakes combat system where every swing of your blade, every perfectly timed dodge, and every measured breath could be your last.
 
-Will You Rise, Ling?
+# Will You Rise, Ling?
 
-The Sentinel does not tire, nor does it show mercy. Only those who can read the subtle cues of their enemy and strike with absolute certainty will overcome the shadow of the Primordial.
+# The Sentinel does not tire, nor does it show mercy. Only those who can read the subtle cues of their enemy and strike with absolute certainty will overcome the shadow of the Primordial.
 
-Sharpen your blade. The cycle begins with you.
+# Sharpen your blade. The cycle begins with you.
